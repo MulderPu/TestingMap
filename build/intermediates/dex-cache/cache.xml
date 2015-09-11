@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-e7d9a47286afb2178087cc35ff8b35a4d4166a57.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-997f09b5b1e36136caa8c24e09c72c39670df5b5.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a4db992a702762f9892c093dfde9c1f513bb7bd1.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-be1486f04dc4da126c24343734184b8a83b8f458.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-c587dbc74269229de20c136603add945a5b9928f.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-067c610ce31db8daa225750d53d06c6f387e92f8.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-2b0570cea9a449f1b94959b17ff46c0d45f50055.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-6cab5370924fa16723a326a62dbd8b87494bf8e6.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-b9e2c32deab0ef8dab2292125c5fcdade340d875.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-5d90c27316a6660999345cbecb03c6e00d8686df.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-237ae236035af8807c74d5c26f9aa0044c651a80.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-2a7336e063be0bd3fd1bce158e4bb3f383b41503.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-b53a0da39e252b5730fb35daaab373a341dfdd0c.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-65f5b320e242139ec979b294af6c3bf3021f5b78.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-a0ca8e8f4d72273cf9c6bf477ef9973b80f7084b.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-6777fd5678295cbbac37931e6980435a209c0d45.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-96f19b58e7ccb9b8f99386438f082df5a1946804.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-f56fc45c9c5c9433b52d2877f18de330ee253a27.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-7e58cecf4bb34231382c98abed024ea3d9dd90f3.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-9fd7de9ba2ef1192b03a73163b6eeda6b64b192d.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-22338096b79db7e0ff8276f45863a9664dad3639.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-1d85fce47ddeba6371b6c8b6fb43cb2f15fdb25a.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-bccdefccd458b91767b729de1cd603ecf6cb6120.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-e46d02a4c772557be688751545bbfbd6cdabfe5a.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-748bc267ecd06f4837c8fd3c659817078e2ff4e2.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-d45d075c9963bacdf4aca6478211231171bfa4d9.jar" />
+    </item>
+    <item
+        jar="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/mulder/Desktop/android_apps/MyMap/app/build/intermediates/pre-dexed/debug/classes-c0ab03e20271998086180e459a99e17dc8ba89a2.jar" />
+    </item>
+
+</items>
